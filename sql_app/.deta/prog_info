@@ -1,0 +1,1 @@
+{"id":"483ce136-55c3-4d6d-8f74-3490e883fa74","space":26613,"runtime":"python3.9","name":"sql_app","path":"izlbry","project":"c0qsk76t","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","sqlalchemy","bs4","selenium","requests"],"envs":null,"public":true,"log_level":"off","cron":""}
